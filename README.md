@@ -27,4 +27,4 @@ A simple Wikipedia clone using Django, HTML, and CSS
 - **Markdown to HTML Conversion**: On each entry’s page, any Markdown content in the entry file should be converted to HTML before being displayed to the user. You may use the python-markdown2 package to perform this conversion, installable via pip3 install markdown2.
 
 ## Setup
-Install requirements ```pip install -r requirements.txt```
+Install requirements ```pip install -r requirements.txt``` which can be found in the encyclopedia directory 
